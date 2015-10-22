@@ -1,6 +1,10 @@
 ## These functions calculate the inverse of a matrix, storing the value so
 ## it does not have to be computed repeatedly. 
 
+## Got some details that helped me complete this assignment from
+## "https://asitarrives.wordpress.com/2014/10/18/understanding-lexical-scoping
+## -in-r-great-guidance-for-community-ta-in-coursera/comment-page-1/#comment-12"
+
 ## This function takes an invertible matrix as input and makes a list that
 ## 1. sets the matrix
 ## 2. returns the matrix
